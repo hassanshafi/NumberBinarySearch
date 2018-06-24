@@ -12,6 +12,7 @@
 		20C13C2420D989B400E97409 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20C13C2220D989B400E97409 /* Main.storyboard */; };
 		20C13C2620D989B400E97409 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20C13C2520D989B400E97409 /* Assets.xcassets */; };
 		20C13C2920D989B400E97409 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20C13C2720D989B400E97409 /* LaunchScreen.storyboard */; };
+		20C13C3120D98B1900E97409 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C13C3020D98B1900E97409 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		20C13C2520D989B400E97409 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20C13C2820D989B400E97409 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20C13C2A20D989B400E97409 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20C13C3020D98B1900E97409 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				20C13C2520D989B400E97409 /* Assets.xcassets */,
 				20C13C2720D989B400E97409 /* LaunchScreen.storyboard */,
 				20C13C2A20D989B400E97409 /* Info.plist */,
+				20C13C3020D98B1900E97409 /* SecondViewController.swift */,
 			);
 			path = NumberGameBinarySearch;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20C13C3120D98B1900E97409 /* SecondViewController.swift in Sources */,
 				20C13C2120D989B400E97409 /* ViewController.swift in Sources */,
 				20C13C1F20D989B400E97409 /* AppDelegate.swift in Sources */,
 			);
